@@ -1,0 +1,10 @@
+# Block files containing your home network data (Security)
+detected_macs.json
+
+# Block Python junk files
+__pycache__/
+*.py[cod]
+
+# Block environment configuration files
+.env
+.vscode/

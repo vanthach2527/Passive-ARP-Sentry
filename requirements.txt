@@ -1,0 +1,4 @@
+scapy>=2.5.0
+pytelegrambotapi>=4.14.0
+requests>=2.31.0
+colorama>=0.4.6
